@@ -1,5 +1,3 @@
-#Cab-App
-
 # Getting Started with Create React Native App
 
 # Initial Setup and Configuration.
