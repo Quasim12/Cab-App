@@ -1,0 +1,15 @@
+.adv{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 23px;
+}
+.indi{
+    font-size: 25px;
+}
+
+.cancel{
+    margin: 10px;
+    display: flex;
+    justify-content:space-evenly
+}
